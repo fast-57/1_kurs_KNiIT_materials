@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "a400bd76ff0c6461",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c98cbbaab851eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb58929f384b1c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "История России/ytwyte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ytwyte"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97976ad7ed4922ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "13be59f09d8545d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68b9032992afc4ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d7b388947631db19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6cb970bdba0bfb9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "cb5945678acc3c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "4656e0a2e72ca4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a35b7b3076ce51b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "История России/15.03.2025 Лекция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 15.03.2025 Лекция"
+            }
+          },
+          {
+            "id": "ef6a577729a8ab91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "d6e8c97c2fbb6811",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "bb7efae08bbfeedc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "bb58929f384b1c6d",
+  "lastOpenFiles": [
+    "Современные информационные технологии/02.04.2025.md",
+    "История России/ytwyte.md",
+    "История России/14.03.2025 Лекция.md",
+    "Введение в специальность/31.03.2025.md",
+    "Введение в специальность/17.03.2025 Лекция 6 Neoflex.md",
+    "История России/28.03.2025 Лекция.md",
+    "Инфа и прога/Лекция 26.03.2025 Очередь. Граф.md",
+    "Современные информационные технологии/26.03.2025 Слияния веток. Конфликты про слияния..md",
+    "История России/21.03.2025 Лекция.md",
+    "История России/15.03.2025 Лекция.md",
+    "История России/28.02.2025 Лекция 3.md",
+    "Современные информационные технологии/12.03.2025 Лекция 5.md",
+    "Современные информационные технологии/05.03.2025 Лекция 4 Разработка в терминале. С и С++.md",
+    "Инфа и прога/лекция 19.03.2025.md",
+    "Современные информационные технологии/17.03.2025 Лекция 6 Neoflex.md",
+    "Введение в специальность",
+    "Без названия.md",
+    "Современные информационные технологии/03.03.2025 Практика.md",
+    "Инфа и прога/Лекция 12.03.2025.md",
+    "Инфа и прога/лекция 05.03.2025.md",
+    "Инфа и прога/лекция 12.02.2025.md",
+    "История России/14.02.2025 Лекция 1.md",
+    "История России/02.12.2024 Лекция.md",
+    "История России/16.12.2024 Лекция.md",
+    "Современные информационные технологии/12.02.2025 Лекция 1.md",
+    "История России/25.11.2024 Лекция.md",
+    "История России/09.12.2024 Лекция.md",
+    "Современные информационные технологии",
+    "Теоретическая информатика",
+    "История России",
+    "Инфа и прога",
+    "Русский язык",
+    "ОРГ"
+  ]
+}

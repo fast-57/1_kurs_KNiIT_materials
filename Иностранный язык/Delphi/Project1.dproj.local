@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.03.23 20:19:44.975,=C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025.03.23 20:21:08.753,C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\HelloWorld.pas=C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025.03.23 20:21:08.753,C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\HelloWorld.dfm=C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2025.03.23 20:21:17.184,C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\Project1.dproj=C:\Users\HUAWEI\Desktop\1 курс книит\Иностранный язык\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

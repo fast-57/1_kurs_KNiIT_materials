@@ -1,0 +1,1 @@
+sky 34 56 blue1 pink sky 24 2 sky 2 24 24 pink

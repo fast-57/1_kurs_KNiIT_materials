@@ -1,0 +1,1 @@
+int the_number_three = (0 << i) | n
